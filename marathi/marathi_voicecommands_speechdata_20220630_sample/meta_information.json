@@ -1,0 +1,710 @@
+[
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "18",
+        "id": "178"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "27",
+        "id": "073"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "40",
+        "id": "109"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "25",
+        "id": "044"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "47",
+        "id": "071"
+    },
+    {
+        "area": "Pune",
+        "gender": "M",
+        "age": "24",
+        "id": "051"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "19",
+        "id": "081"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "20",
+        "id": "162"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "32",
+        "id": "186"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "18",
+        "id": "197"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "16",
+        "id": "153"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "33",
+        "id": "145"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "20",
+        "id": "172"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "NA",
+        "id": "222"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "17",
+        "id": "097"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "Wrong Num",
+        "age": "19",
+        "id": "164"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "22",
+        "id": "092"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "37",
+        "id": "041"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "18",
+        "id": "142"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "26",
+        "id": "146"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "22",
+        "id": "025"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "41",
+        "id": "135"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "27",
+        "id": "077"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "NA",
+        "id": "213"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "23",
+        "id": "093"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "17",
+        "id": "123"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "15",
+        "id": "190"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "48",
+        "id": "055"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "19",
+        "id": "079"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "43",
+        "id": "074"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "28",
+        "id": "152"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "18",
+        "id": "001"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "30",
+        "id": "150"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "48",
+        "id": "045"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "18",
+        "id": "048"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "26",
+        "id": "083"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "30",
+        "id": "183"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "28",
+        "id": "021"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "20",
+        "id": "085"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "25",
+        "id": "076"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "23",
+        "id": "169"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "35",
+        "id": "043"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "26",
+        "id": "053"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "16",
+        "id": "054"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "20",
+        "id": "096"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "22",
+        "id": "154"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "29",
+        "id": "115"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "NA",
+        "id": "206"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "21",
+        "id": "128"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "32",
+        "id": "029"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "18",
+        "id": "061"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "NA",
+        "id": "211"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "17",
+        "id": "191"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "36",
+        "id": "112"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "22",
+        "id": "101"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "34",
+        "id": "116"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "20",
+        "id": "063"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "22",
+        "id": "122"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "23",
+        "id": "062"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "19",
+        "id": "163"
+    },
+    {
+        "area": "Pune",
+        "gender": "M",
+        "age": "29",
+        "id": "134"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "28",
+        "id": "196"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "23",
+        "id": "167"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "27",
+        "id": "165"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "18",
+        "id": "220"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "24",
+        "id": "003"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "19",
+        "id": "072"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "40",
+        "id": "138"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "21",
+        "id": "005"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "30",
+        "id": "104"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "20",
+        "id": "094"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "20",
+        "id": "198"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "21",
+        "id": "110"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "21",
+        "id": "098"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "20",
+        "id": "032"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "18",
+        "id": "088"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "NA",
+        "id": "200"
+    },
+    {
+        "area": "Mumbai",
+        "gender": "F",
+        "age": "21",
+        "id": "006"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "22",
+        "id": "141"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "33",
+        "id": "037"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "19",
+        "id": "184"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "17",
+        "id": "114"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "20",
+        "id": "012"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "19",
+        "id": "047"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "32",
+        "id": "017"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "16",
+        "id": "143"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "54",
+        "id": "065"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "26",
+        "id": "182"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "20",
+        "id": "189"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "29",
+        "id": "066"
+    },
+    {
+        "area": "Mumbai",
+        "gender": "F",
+        "age": "40",
+        "id": "176"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "20",
+        "id": "086"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "25",
+        "id": "121"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "23",
+        "id": "004"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "17",
+        "id": "155"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "21",
+        "id": "008"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "Wrong num",
+        "age": "23",
+        "id": "118"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "23",
+        "id": "157"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "NA",
+        "age": "19",
+        "id": "170"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "29",
+        "id": "046"
+    },
+    {
+        "area": "Mumbai",
+        "gender": "F",
+        "age": "32",
+        "id": "033"
+    },
+    {
+        "area": "Pune",
+        "gender": "M",
+        "age": "16",
+        "id": "067"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "24",
+        "id": "106"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "F",
+        "age": "20",
+        "id": "069"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "18",
+        "id": "060"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "21",
+        "id": "036"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "21",
+        "id": "166"
+    },
+    {
+        "area": "Pune",
+        "gender": "M",
+        "age": "18",
+        "id": "010"
+    },
+    {
+        "area": "Pune",
+        "gender": "M",
+        "age": "28",
+        "id": "049"
+    },
+    {
+        "area": "NA",
+        "gender": "F",
+        "age": "30",
+        "id": "059"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "30",
+        "id": "038"
+    },
+    {
+        "area": "NA",
+        "gender": "M",
+        "age": "49",
+        "id": "171"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "NA",
+        "id": "216"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "19",
+        "id": "129"
+    },
+    {
+        "area": "Pune",
+        "gender": "F",
+        "age": "21",
+        "id": "064"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "20",
+        "id": "161"
+    },
+    {
+        "area": "Nagpur",
+        "gender": "M",
+        "age": "30",
+        "id": "108"
+    },
+    {
+        "area": "Pune",
+        "gender": "M",
+        "age": "16",
+        "id": "042"
+    }
+]
