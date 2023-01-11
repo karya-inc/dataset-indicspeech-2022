@@ -1,9 +1,9 @@
 # dataset-indicspeech-2022
-This repository contains sample speech datasets for 11 Indic languages for training Automatic Speech Recognition models. Email givework@karya.in for the full dataset of Indic speech.
+This repository contains sample speech datasets for 11 Indic languages for training Automatic Speech Recognition models. Our full dataset is contains ~200 hours of speech in each Indic language. Email givework@karya.in for the full dataset.
 
 ## Contents
 
-This dataset consists of sample speech datasets for 11 Indic languages. Each language has two kinds of datasets: dictation-based and voice commands.The datasets are balanced in terms of sex as well as regional variants of the language. All audio is in wav format. The repository contains the following files:
+This dataset consists of sample speech datasets for 11 Indic languages (Assamese, Bengali, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, Tamil, Telugu and Urdu). Each language has two kinds of datasets: dictation-based and voice commands.The datasets are balanced in terms of gender as well as regional variants of the language. All audio is in wav format. The repository contains the following files:
 
 1. `README.md` - This file.
 
