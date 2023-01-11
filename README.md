@@ -1,4 +1,4 @@
-# dataset-indicspeech-2022
+# Indic Speech Dataset 2022
 This repository contains sample speech datasets for 11 Indic languages for training Automatic Speech Recognition models. Our full dataset is contains ~200 hours of speech in each Indic language. Email givework@karya.in for the full dataset.
 
 ## Contents
